@@ -33,3 +33,5 @@ A recruiter, collaborator, or reviewer should be able to inspect this repo and t
 
 Use daily local execution, then one clean sync commit when closing the day.
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for exact flow.
+
+- governance check-name verification
