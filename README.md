@@ -20,6 +20,7 @@ A recruiter, collaborator, or reviewer should be able to inspect this repo and t
 ## Evidence Map
 
 - Standard: [`docs/EVIDENCE_STANDARD.md`](docs/EVIDENCE_STANDARD.md)
+- Index: [`docs/EVIDENCE_INDEX.md`](docs/EVIDENCE_INDEX.md)
 - Changelog: [`CHANGELOG.md`](CHANGELOG.md)
 - ADRs: [`docs/adr/`](docs/adr)
 - Demos: [`docs/demos/`](docs/demos)
